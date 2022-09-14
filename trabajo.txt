@@ -9,12 +9,12 @@ viernes
 sabado
 domingo
 
-estaciones
+ESTACIONES
 invierno
 verano
 otoño
 primavera
 
-meses
+MESES
 enero
 febrero
